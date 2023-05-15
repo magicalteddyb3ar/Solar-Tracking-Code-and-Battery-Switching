@@ -2,3 +2,4 @@
 Contains the code used to track the sunlight using photoresistors and the manual switch components. 
 open both codes using arduino software. 
 final tracking is the code used for the tracking arduino in the black box behind the panel.
+other file is used in the arduino stored in the giant black box that contains the batteries
